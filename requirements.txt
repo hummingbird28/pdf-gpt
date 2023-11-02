@@ -1,0 +1,7 @@
+pypdf
+pypdf2
+swibots
+openai
+langchain
+chromadb
+python-decouple
